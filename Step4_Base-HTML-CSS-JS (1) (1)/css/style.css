@@ -84,6 +84,7 @@ html{
     font-family: sans-serif; /*change to add a proper font stack */
     font-size: 1em;
     line-height: 2; /* usually something between 1.3 and 1.6 is most readable without feeling too far apart */
+   
 }
 
 /*Usually at least a bottom margin is given to separate paragraphs. font-size and font-family are inherited from body*/
@@ -179,17 +180,29 @@ textarea {
    Add your custom styles here
    ========================================================================== */
 
-.googleCalendar{
+.eventCalendar{
   position: relative;
   height: 0;
   width: 100%;
   padding-bottom: 100% ;
 }
 
-.googleCalendar iframe{
+.eventCalendar iframe{
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 75%;
+  height: 75%;
 }
+
+.candidate-image{
+    width: auto; 
+  height: auto;
+  max-width: 25%; 
+    
+}
+
+body {
+       background-image: url(http://feelgrafix.com/data/american-flag/american-flag-1.jpg)
+} 
+ 
