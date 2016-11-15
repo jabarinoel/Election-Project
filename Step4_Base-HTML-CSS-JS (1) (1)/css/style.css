@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+
 /* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography 
 
 Much of this is modified from two original sources
@@ -28,7 +31,7 @@ html {
 img,video{
   width: auto; 
   height: auto;
-  max-width: 50%; 
+  max-width: 100%; 
 }
 
 
@@ -94,7 +97,9 @@ p{
 
 /*Set a default font-family for the headings*/
 /*change to add a proper font stack */
-
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Nunito', sans-serif; /*change to add a proper font stack */
+}
 
 /*
 Set the font-size of each heading individually
@@ -125,21 +130,21 @@ h3{
 }
 
 h4{
-    font-size:1em;
+    font-size:1.5em;
     line-height: 1;
     margin: 0;
     padding: 0;
 }
 
 h5{
-    font-size:1em;
+    font-size:1.3em;
     line-height: 1;
     margin: 0;
     padding: 0;
 }
 
 h6{
-    font-size:1em;
+    font-size:1.2em;
     line-height: 1;
     margin: 0;
     padding: 0;
@@ -205,4 +210,71 @@ textarea {
 body {
        background-image: url(http://feelgrafix.com/data/american-flag/american-flag-1.jpg)
 } 
+
+
+/* ==========================================================================
+   Page Section Styling
+   ========================================================================== */
+.candidates li{
+    overflow:hidden;
+}
+.candidate-image{
+    width: 40%;
+    float: left;
+}
+.candidate-info{
+    width: 60%;
+    float:left;
+    
+}
+
+.party{
+    font-variant: small-caps;
+    text-transform: lowercase;
+}
+
+
+.candidates, .candidates-alt{
+    background-color: darkblue;
+    color: #fff;
+    padding: 50px 10px;
+    clear: both;
+}
+
+.candidates-alt{
+    background-color: lightblue;
+    color: #333;
+}
+
+.more-info{
+    padding: 50px 10px;
+    background-color: lightblue;
+    
+}
+
+
+
+a{
+    color: red;
+    text-decoration: none;
+    border-bottom: 2px solid red;
+}
+
+a:hover{
+    color: darkred;
+    border-bottom: 2px solid darkred;
+}
+
+a:visited{
+    color: darkgrey;
+    border-bottom: 2px solid darkgrey;
+}
+
+
+
+
+
+
+
+
  
