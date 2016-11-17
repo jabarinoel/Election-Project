@@ -1,0 +1,34 @@
+
+
+
+
+/* ==========================================================================
+   Add your custom styles here
+   ========================================================================== */
+
+.eventCalendar{
+  position: relative;
+  height: 0;
+  width: 100%;
+  padding-bottom: 100% ;
+}
+
+.eventCalendar iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75%;
+  height: 75%;
+}
+
+.candidate-image{
+    width: auto; 
+  height: auto;
+  max-width: 25%; 
+    
+}
+
+body {
+       background-image: url(http://feelgrafix.com/data/american-flag/american-flag-1.jpg)
+} 
+ 
