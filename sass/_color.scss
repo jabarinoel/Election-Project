@@ -9,7 +9,9 @@ $palette5: #002255 ; //dark blue changed slightly from original reference palett
 
 //Now we set some of the main colors based on the palette
 
-$primary: $palette5 ;
+$primary: $palette1 ;
+$primary2: $palette2 ;
+$primary3: $palette4 ;
 $background: lighten($palette3, 10%);
 $highlight: $palette1;
 $link: $highlight;

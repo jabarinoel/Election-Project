@@ -13,3 +13,79 @@ $susy: (
     global-box-sizing: border-box,
 );
 
+@import "normalized-reset";
+@import "navigation";
+@import "base-navigation";
+@import "base-typography";
+@import "utilities";
+@import "color";
+@import "typography";
+@import "base-typography";
+
+.header-content{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    float: left;
+}
+
+.register-info{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+.deadline{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+
+.change-reg{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+
+.eligibility{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+}
+
+.how-to-reg{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
+
+.mail-in-reg{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+
+.online-reg{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+}
+
+.events-reg{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
+
+.get-involved{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+
+.resources-reg{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+}

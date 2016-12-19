@@ -1,3 +1,29 @@
+@import "normalized-reset";
+@import "navigation";
+@import "base-navigation";
+@import "base-typography";
+@import "utilities";
+@import "color";
+@import "layout";
+@import "typography";
+@import "base-typography";
+
+.page-header{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
+
+.page-footer{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+
+
+
+
+}
 /* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography
 
 Much of this is modified from two original sources
