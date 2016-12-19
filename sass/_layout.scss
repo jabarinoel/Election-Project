@@ -33,6 +33,7 @@ $susy: (
     @include container;
     background-color: $primary2;
     padding: gutter();
+
 }
 .deadline{
     @include container;
@@ -88,4 +89,75 @@ $susy: (
     @include container;
     background-color: $primary3;
     padding: gutter();
+}
+
+
+.dates-title{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+}
+.poll-locations{
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(4 break);
+}
+.absentee-ballots{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(4 last);
+}
+.get-involved-dates{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(4);
+
+}
+
+.more-information{
+      @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
+
+//candidate page
+
+.candidate-imageHC{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(3);
+}
+.candidate-imageDT{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(3);
+}
+.candidate-imageJS{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(3);
+}
+.candidate-imageGJ{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(3);
+
+}
+.congress-heading{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    clear: both;
 }

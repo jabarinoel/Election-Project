@@ -2629,7 +2629,7 @@ textarea {
   clear: both;
 }
 
-/* line 37, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 38, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .deadline {
   max-width: 1500px;
   margin-left: auto;
@@ -2645,7 +2645,7 @@ textarea {
   clear: both;
 }
 
-/* line 43, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 44, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .change-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2661,7 +2661,7 @@ textarea {
   clear: both;
 }
 
-/* line 49, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 50, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .eligibility {
   max-width: 1500px;
   margin-left: auto;
@@ -2677,7 +2677,7 @@ textarea {
   clear: both;
 }
 
-/* line 55, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 56, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .how-to-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2694,7 +2694,7 @@ textarea {
   clear: both;
 }
 
-/* line 62, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 63, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .mail-in-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2710,7 +2710,7 @@ textarea {
   clear: both;
 }
 
-/* line 68, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 69, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .online-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2726,7 +2726,7 @@ textarea {
   clear: both;
 }
 
-/* line 74, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 75, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .events-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2743,7 +2743,7 @@ textarea {
   clear: both;
 }
 
-/* line 81, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 82, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .get-involved {
   max-width: 1500px;
   margin-left: auto;
@@ -2759,7 +2759,7 @@ textarea {
   clear: both;
 }
 
-/* line 87, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 88, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .resources-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -2770,6 +2770,192 @@ textarea {
 
 /* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
 .resources-reg:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 95, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.dates-title {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.dates-title:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 100, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.poll-locations {
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  clear: both;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 106, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.absentee-ballots {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: right;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.absentee-ballots:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 112, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.get-involved-dates {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.get-involved-dates:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 120, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.more-information {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.more-information:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 129, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageHC {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageHC:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 136, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageDT {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageDT:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 143, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageJS {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageJS:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 150, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageGJ {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageGJ:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 158, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.congress-heading {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  clear: both;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.congress-heading:after {
   content: " ";
   display: block;
   clear: both;
@@ -4555,7 +4741,7 @@ textarea {
   clear: both;
 }
 
-/* line 37, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 38, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .deadline {
   max-width: 1500px;
   margin-left: auto;
@@ -4571,7 +4757,7 @@ textarea {
   clear: both;
 }
 
-/* line 43, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 44, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .change-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4587,7 +4773,7 @@ textarea {
   clear: both;
 }
 
-/* line 49, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 50, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .eligibility {
   max-width: 1500px;
   margin-left: auto;
@@ -4603,7 +4789,7 @@ textarea {
   clear: both;
 }
 
-/* line 55, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 56, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .how-to-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4620,7 +4806,7 @@ textarea {
   clear: both;
 }
 
-/* line 62, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 63, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .mail-in-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4636,7 +4822,7 @@ textarea {
   clear: both;
 }
 
-/* line 68, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 69, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .online-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4652,7 +4838,7 @@ textarea {
   clear: both;
 }
 
-/* line 74, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 75, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .events-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4669,7 +4855,7 @@ textarea {
   clear: both;
 }
 
-/* line 81, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 82, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .get-involved {
   max-width: 1500px;
   margin-left: auto;
@@ -4685,7 +4871,7 @@ textarea {
   clear: both;
 }
 
-/* line 87, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+/* line 88, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
 .resources-reg {
   max-width: 1500px;
   margin-left: auto;
@@ -4696,6 +4882,192 @@ textarea {
 
 /* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
 .resources-reg:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 95, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.dates-title {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.dates-title:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 100, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.poll-locations {
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  clear: both;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 106, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.absentee-ballots {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: right;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.absentee-ballots:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 112, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.get-involved-dates {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.get-involved-dates:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 120, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.more-information {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.more-information:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 129, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageHC {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageHC:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 136, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageDT {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageDT:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 143, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageJS {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageJS:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 150, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.candidate-imageGJ {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  color: #fff;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.candidate-imageGJ:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 158, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.congress-heading {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  clear: both;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.congress-heading:after {
   content: " ";
   display: block;
   clear: both;
