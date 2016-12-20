@@ -3430,6 +3430,167 @@ textarea {
   clear: both;
 }
 
+/* line 338, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.featured-event {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.featured-event:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 343, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.first-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  padding-bottom: 2.7%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.first-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 350, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.second-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.second-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 356, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.vice-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  padding-bottom: 5.4%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.vice-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 365, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.get-involved-resources {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  color: #fff;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.get-involved-resources:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 372, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.voter-info-and-edu {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.voter-info-and-edu:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 378, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.media-resources {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.media-resources:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 384, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.political-parties {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  color: #fff;
+  padding-bottom: 8%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.political-parties:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
 /* ==========================================================================
    Base Typographic Styles
    ==========================================================================
@@ -6007,6 +6168,167 @@ textarea {
 
 /* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
 .eventCalendar-agenda:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 338, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.featured-event {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.featured-event:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 343, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.first-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  padding-bottom: 2.7%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.first-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 350, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.second-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.second-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 356, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.vice-pres-debate {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 33.33333%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  padding-bottom: 5.4%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.vice-pres-debate:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 365, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.get-involved-resources {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  color: #fff;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.get-involved-resources:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 372, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.voter-info-and-edu {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.voter-info-and-edu:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 378, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.media-resources {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #657FAD;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.media-resources:after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+/* line 384, /Users/jabarinoel/Desktop/Election Project 2/sass/_layout.scss */
+.political-parties {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AC0000;
+  padding: 1.38889%;
+  width: 25%;
+  float: left;
+  padding-left: 1.38889%;
+  padding-right: 1.38889%;
+  color: #fff;
+  padding-bottom: 8%;
+}
+
+/* line 12, /Applications/Scout-App.app/Contents/Resources/app.nw/bower_components/susy/sass/susy/output/support/_clearfix.scss */
+.political-parties:after {
   content: " ";
   display: block;
   clear: both;

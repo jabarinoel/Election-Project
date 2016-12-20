@@ -334,3 +334,58 @@ $susy: (
     padding: gutter();
     @include span(6);
 }
+
+.featured-event{
+@include container;
+    background-color: $primary3;
+    padding: gutter();
+}
+.first-pres-debate{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    @include span(4);
+    padding-bottom: 2.7%;
+}
+.second-pres-debate{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(4);
+}
+.vice-pres-debate{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(4);
+    padding-bottom: 5.4%;
+}
+
+/////////////////////////////////get involved\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+.get-involved-resources{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    @include span(3);
+    color: #fff;
+}
+.voter-info-and-edu{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(3);
+}
+.media-resources{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(3);
+}
+.political-parties{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    @include span(3);
+    color: #fff;
+    padding-bottom: 8%;
+}
