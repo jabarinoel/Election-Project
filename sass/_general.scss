@@ -13,17 +13,20 @@
     background-color: $primary;
     padding: gutter();
     color: #fff;
+    height: 100%;
 }
 
 .page-footer{
     @include container;
-    background-color: $primary;
     padding: gutter();
-
-
-
-
+    color: #fff;
 }
+
+
+
+
+
+
 /* They styles in the following are similar to the effect of a reset but have be separated out so that it is easier to add default styles.  These are suggested styles that the designer should change and add to set the typography
 
 Much of this is modified from two original sources

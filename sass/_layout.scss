@@ -22,6 +22,30 @@ $susy: (
 @import "typography";
 @import "base-typography";
 
+////////////////////home-page css\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+.pres-debate{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(6);
+    padding-bottom: 9.3%
+}
+.home-list{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(6);
+    padding-bottom: 1.45%;
+}
+.homepage-heading{
+    @include container;
+    padding: gutter();
+    color: #fff;
+
+}
+
+////////////////reg-page css\\\\\\\\\\\\\\\\\\\\\\
 .header-content{
     @include container;
     background-color: $primary2;
@@ -102,18 +126,21 @@ $susy: (
     padding: gutter();
     color: #fff;
     @include span(4 break);
+    padding-bottom: 6.66%
 }
 .absentee-ballots{
     @include container;
     background-color: $primary2;
     padding: gutter();
     @include span(4 last);
+    padding-bottom: 3.15%;
 }
 .get-involved-dates{
     @include container;
     background-color: $primary3;
     padding: gutter();
     @include span(4);
+    padding-bottom: 6.7%;
 
 }
 
@@ -122,9 +149,17 @@ $susy: (
     background-color: $primary;
     padding: gutter();
     color: #fff;
+    @include span(8)
 }
 
 //candidate page
+
+.federal-heading{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
 
 .candidate-imageHC{
     @include container;
@@ -132,6 +167,7 @@ $susy: (
     padding: gutter();
     color: #fff;
     @include span(3);
+    padding-bottom: 5%;
 }
 .candidate-imageDT{
     @include container;
@@ -139,6 +175,7 @@ $susy: (
     padding: gutter();
     color: #fff;
     @include span(3);
+    padding-bottom: 4.1%;
 }
 .candidate-imageJS{
     @include container;
@@ -146,6 +183,7 @@ $susy: (
     padding: gutter();
     color: #fff;
     @include span(3);
+    padding-bottom: 2.4%;
 }
 .candidate-imageGJ{
     @include container;
@@ -153,11 +191,146 @@ $susy: (
     padding: gutter();
     color: #fff;
     @include span(3);
+    padding-bottom: 5.25%;
 
 }
 .congress-heading{
     @include container;
-    background-color: $primary3;
+    background-color: $primary2;
     padding: gutter();
     clear: both;
+}
+.candidate-imageCS{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(3);
+    padding-bottom: 6.6%;
+}
+.candidate-imageWL{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(3);
+    padding-bottom: 4%
+}
+.candidate-imageRL{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(3);
+    padding-bottom: 6.9%;
+}
+.candidate-imageAM{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(3);
+    padding-bottom: 7%;
+}
+.senate-heading{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+}
+
+.house-of-rep-heading{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+}
+.candidate-imageJN{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(4);
+    padding-bottom: 2.6111%;
+}
+.candidate-imagePR{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(4);
+}
+.candidate-imageMI{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(4);
+    padding-bottom: 3.29%;
+}
+
+
+
+.dem-primary-heading{
+    float: left;
+    @include span(12);
+    background-color: $primary2;
+}
+.new-york-state-heading{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+}
+.candidate-imageDG{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(4);
+}
+.candidate-imageJF{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(4);
+    padding-bottom: 4.4%;
+}
+.republican-primary-heading{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(4);
+    padding-bottom: 17.45%;
+}
+.dem-primary-heading2{
+    float: left;
+    @include span(12);
+    background-color: $primary3;
+}
+.candidate-imageDS{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(6);
+}
+.republican-primary-heading2{
+    @include container;
+    background-color: $primary3;
+    padding: gutter();
+    @include span(6);
+    padding-bottom: 32.9%
+}
+.candidate-sorces{
+    @include container;
+    background-color: $primary;
+    padding: gutter();
+    color: #fff;
+    @include span(12);
+}
+///////////////////////////event page\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+.eventCalendar1{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(6);
+}
+.eventCalendar-agenda{
+    @include container;
+    background-color: $primary2;
+    padding: gutter();
+    @include span(6);
 }
