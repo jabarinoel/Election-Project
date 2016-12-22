@@ -15,7 +15,7 @@ It has been modified to remove some of the choices such as font-family, that a d
 /* Document
    ========================================================================== */
 @import url("https://fonts.googleapis.com/css?family=Lato:100,400,400i,700,700i");
-/* line 23, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 23, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 html {
   /*  font-family: sans-serif;  1 */
   /* Removed in order to allow designer to set the default fonts */
@@ -33,7 +33,7 @@ html {
 /**
  * Remove the margin in all browsers (opinionated).
  */
-/* line 37, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 37, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 body {
   margin: 0;
 }
@@ -41,7 +41,7 @@ body {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 45, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 45, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 article,
 aside,
 footer,
@@ -68,7 +68,7 @@ h1 {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in IE.
  */
-/* line 78, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 78, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 figcaption,
 figure,
 main {
@@ -79,7 +79,7 @@ main {
 /**
  * Add the correct margin in IE 8.
  */
-/* line 88, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 88, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 figure {
   margin: 1em 40px;
 }
@@ -88,7 +88,7 @@ figure {
  * 1. Add the correct box sizing in Firefox.
  * 2. Show the overflow in Edge and IE.
  */
-/* line 97, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 97, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 hr {
   box-sizing: content-box;
   /* 1 */
@@ -102,7 +102,7 @@ hr {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 108, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 108, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 pre {
   font-family: monospace, monospace;
   /* 1 */
@@ -116,7 +116,7 @@ pre {
  * 1. Remove the gray background on active links in IE 10.
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
-/* line 121, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 121, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 a {
   background-color: transparent;
   /* 1 */
@@ -128,7 +128,7 @@ a {
  * Remove the outline on focused links when they are also active or hovered
  * in all browsers (opinionated).
  */
-/* line 131, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 131, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 a:active,
 a:hover {
   outline-width: 0;
@@ -138,7 +138,7 @@ a:hover {
  * 1. Remove the bottom border in Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
  */
-/* line 141, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 141, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 abbr[title] {
   border-bottom: none;
   /* 1 */
@@ -151,7 +151,7 @@ abbr[title] {
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
-/* line 151, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 151, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 b,
 strong {
   font-weight: inherit;
@@ -160,7 +160,7 @@ strong {
 /**
  * Add the correct font weight in Chrome, Edge, and Safari.
  */
-/* line 160, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 160, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 b,
 strong {
   font-weight: bolder;
@@ -170,7 +170,7 @@ strong {
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
  */
-/* line 170, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 170, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 code,
 kbd,
 samp {
@@ -183,7 +183,7 @@ samp {
 /**
  * Add the correct font style in Android 4.3-.
  */
-/* line 181, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 181, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 dfn {
   font-style: italic;
 }
@@ -191,7 +191,7 @@ dfn {
 /**
  * Add the correct background and color in IE 9-.
  */
-/* line 189, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 189, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 mark {
   background-color: #ff0;
   color: #000;
@@ -200,7 +200,7 @@ mark {
 /**
  * Add the correct font size in all browsers.
  */
-/* line 198, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 198, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 small {
   font-size: 80%;
 }
@@ -209,7 +209,7 @@ small {
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
  */
-/* line 207, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 207, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 sub,
 sup {
   font-size: 75%;
@@ -218,12 +218,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 215, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 215, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 sub {
   bottom: -0.25em;
 }
 
-/* line 219, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 219, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 sup {
   top: -0.5em;
 }
@@ -233,7 +233,7 @@ sup {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 230, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 230, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 audio,
 video {
   display: inline-block;
@@ -242,7 +242,7 @@ video {
 /**
  * Add the correct display in iOS 4-7.
  */
-/* line 239, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 239, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 audio:not([controls]) {
   display: none;
   height: 0;
@@ -251,7 +251,7 @@ audio:not([controls]) {
 /**
  * Remove the border on images inside links in IE 10-.
  */
-/* line 248, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 248, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 img {
   border-style: none;
 }
@@ -259,7 +259,7 @@ img {
 /**
  * Hide the overflow in IE.
  */
-/* line 256, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 256, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 svg:not(:root) {
   overflow: hidden;
 }
@@ -291,7 +291,7 @@ textarea {
  * Show the overflow in IE.
  * 1. Show the overflow in Edge.
  */
-/* line 288, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 288, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 button,
 input {
   /* 1 */
@@ -302,7 +302,7 @@ input {
  * Remove the inheritance of text transform in Edge, Firefox, and IE.
  * 1. Remove the inheritance of text transform in Firefox.
  */
-/* line 298, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 298, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 button,
 select {
   /* 1 */
@@ -314,7 +314,7 @@ select {
  *    controls in Android 4.
  * 2. Correct the inability to style clickable types in iOS and Safari.
  */
-/* line 309, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 309, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 button,
 html [type="button"],
 [type="reset"],
@@ -326,7 +326,7 @@ html [type="button"],
 /**
  * Remove the inner border and padding in Firefox.
  */
-/* line 320, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 320, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
@@ -338,7 +338,7 @@ button::-moz-focus-inner,
 /**
  * Restore the focus styles unset by the previous rule.
  */
-/* line 332, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 332, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
@@ -363,7 +363,7 @@ fieldset {
  * 3. Remove the padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
-/* line 360, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 360, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 legend {
   box-sizing: border-box;
   /* 1 */
@@ -383,7 +383,7 @@ legend {
  * 1. Add the correct display in IE 9-.
  * 2. Add the correct vertical alignment in Chrome, Firefox, and Opera.
  */
-/* line 374, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 374, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 progress {
   display: inline-block;
   /* 1 */
@@ -394,7 +394,7 @@ progress {
 /**
  * Remove the default vertical scrollbar in IE.
  */
-/* line 383, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 383, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 textarea {
   overflow: auto;
 }
@@ -403,7 +403,7 @@ textarea {
  * 1. Add the correct box sizing in IE 10-.
  * 2. Remove the padding in IE 10-.
  */
-/* line 392, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 392, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 [type="checkbox"],
 [type="radio"] {
   box-sizing: border-box;
@@ -415,7 +415,7 @@ textarea {
 /**
  * Correct the cursor style of increment and decrement buttons in Chrome.
  */
-/* line 402, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 402, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
   height: auto;
@@ -425,7 +425,7 @@ textarea {
  * 1. Correct the odd appearance in Chrome and Safari.
  * 2. Correct the outline style in Safari.
  */
-/* line 412, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 412, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 [type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -436,7 +436,7 @@ textarea {
 /**
  * Remove the inner padding and cancel buttons in Chrome and Safari on OS X.
  */
-/* line 421, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 421, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 [type="search"]::-webkit-search-cancel-button,
 [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -446,7 +446,7 @@ textarea {
  * 1. Correct the inability to style clickable types in iOS and Safari.
  * 2. Change font properties to `inherit` in Safari.
  */
-/* line 431, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 431, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 ::-webkit-file-upload-button {
   -webkit-appearance: button;
   /* 1 */
@@ -460,7 +460,7 @@ textarea {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in Edge, IE, and Firefox.
  */
-/* line 444, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 444, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 details,
 menu {
   display: block;
@@ -469,7 +469,7 @@ menu {
 /*
  * Add the correct display in all browsers.
  */
-/* line 453, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 453, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 summary {
   display: list-item;
 }
@@ -479,7 +479,7 @@ summary {
 /**
  * Add the correct display in IE 9-.
  */
-/* line 464, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 464, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 canvas {
   display: inline-block;
 }
@@ -487,7 +487,7 @@ canvas {
 /**
  * Add the correct display in IE.
  */
-/* line 472, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 472, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 template {
   display: none;
 }
@@ -497,7 +497,7 @@ template {
 /**
  * Add the correct display in IE 10-.
  */
-/* line 483, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_normalized-reset.scss */
+/* line 483, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_normalized-reset.scss */
 [hidden] {
   display: none;
 }
@@ -516,7 +516,7 @@ template {
  * 2. The use of `table` rather than `block` is only necessary if using
  *    `:before` to contain the top-margins of child elements.
  */
-/* line 18, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 18, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .cf:before,
 .cf:after {
   content: " ";
@@ -525,7 +525,7 @@ template {
   /* 2 */
 }
 
-/* line 26, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 26, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .cf:after {
   clear: both;
 }
@@ -534,7 +534,7 @@ template {
  * For IE 6/7 only
  * Include this rule to trigger hasLayout and contain floats.
  */
-/* line 36, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 36, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .cf {
   *zoom: 1;
 }
@@ -543,14 +543,14 @@ template {
 * NAVIGATION 
 * Modified from: http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/a-simple-responsive-mobile-first-navigation/
 * =============================*/
-/* line 46, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 46, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 #main_nav {
   clear: both;
   display: none;
   /*hidden to start */
 }
 
-/* line 51, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 51, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 #main_nav ul {
   list-style: none;
   line-height: 1;
@@ -558,7 +558,7 @@ template {
   padding: 0;
 }
 
-/* line 58, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 58, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 #main_nav li a {
   display: block;
   color: #fff;
@@ -571,26 +571,26 @@ template {
   font-weight: 900;
 }
 
-/* line 69, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 69, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 #main_nav li a:hover {
   color: #0057e7;
   background-color: #fff;
 }
 
-/* line 74, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 74, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 #main_nav li a:active {
   color: #0057e7;
   background-color: #f90;
 }
 
 /* menu button */
-/* line 81, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 81, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .menu {
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-/* line 86, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 86, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .menu a {
   padding: 0.5em 0.625em;
   /*10/16 */
@@ -600,7 +600,7 @@ template {
   text-decoration: none;
 }
 
-/* line 95, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+/* line 95, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
 .menu a:hover {
   color: #0057e7;
   background-color: #ff0000;
@@ -618,11 +618,11 @@ It should also be noted that there is only one media query because this CSS move
 /* 45em is about 720px depending on the base font-size */
 @media only screen and (min-width: 45em) {
   /* hide the menu button */
-  /* line 118, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 118, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   .menu {
     display: none;
   }
-  /* line 121, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 121, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   #main_nav {
     /* move main_nav to top of the screen */
     position: absolute;
@@ -634,24 +634,24 @@ It should also be noted that there is only one media query because this CSS move
     overflow: hidden;
     background-color: #0057e7;
   }
-  /* line 133, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 133, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   #main_nav li {
     display: inline;
     line-height: 1em;
   }
-  /* line 137, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 137, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   #main_nav li a {
     float: left;
     padding: 0.9375em;
     /* 10/16  and  15/16 */
     border-bottom: none;
   }
-  /* line 143, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 143, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   #main_nav li a.top {
     display: none;
   }
   /* move the rest of the page down accordingly */
-  /* line 147, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_navigation.scss */
+  /* line 147, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_navigation.scss */
   .container {
     margin-top: 4em;
     /* adjust depending on the height of your nav */
@@ -675,18 +675,18 @@ A few pieces of normalize.css that more directly affected typographic choices (s
 /*The following 7 lines are from Paul Irish and apply a border-box model. 
 See this page for more info: http://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
 /* apply a natural box layout model to all elements, but allowing components to change */
-/* line 20, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 20, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 html {
   box-sizing: border-box;
 }
 
-/* line 23, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 23, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
 /* Basic Responsive Images and Video */
-/* line 28, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 28, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 img, video {
   width: auto;
   height: auto;
@@ -697,26 +697,26 @@ img, video {
 
     These can be used to help add embedded video content, like YouTube videos, to your page. These styles require you set up your HTML in a specific way. See this CodePen for an example of it in use: http://codepen.io/profstein/pen/mArLRj
 */
-/* line 40, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 40, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 .videoWrapper {
   position: relative;
   padding-top: 25px;
   height: 0;
 }
 
-/* line 46, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 46, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 .videoWrapper.ratio-16-9 {
   padding-bottom: 56.25%;
   /* 16:9 aspect ratio video */
 }
 
-/* line 50, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 50, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 .videoWrapper.ratio-4-3 {
   padding-bottom: 75%;
   /* 4:3 aspect ratio video */
 }
 
-/* line 54, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_responsive-base.scss */
+/* line 54, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_responsive-base.scss */
 .videoWrapper iframe {
   position: absolute;
   top: 0;
@@ -744,7 +744,7 @@ img, video {
 Set a default font-family, font-size and line-height in the html
 This will set the default for the entire site.
 */
-/* line 26, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 26, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 html {
   font-size: 100%;
   font-family: sans-serif;
@@ -755,7 +755,7 @@ html {
 }
 
 /*Usually at least a bottom margin is given to separate paragraphs. font-size and font-family are inherited from body*/
-/* line 35, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 35, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 p {
   margin: 0 0 1em 0;
 }
@@ -767,7 +767,7 @@ Set the font-size of each heading individually
 When you set the font-size also set the line-height.
 You may also want to set the top and bottom margins and padding
 */
-/* line 48, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 48, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h1 {
   font-size: 4.7em;
   font-family: 'Nunito', sans-serif;
@@ -776,7 +776,7 @@ h1 {
   padding: 0;
 }
 
-/* line 56, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 56, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h2 {
   font-size: 3em;
   font-family: 'Nunito', sans-serif;
@@ -785,7 +785,7 @@ h2 {
   padding: 0;
 }
 
-/* line 64, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 64, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h3 {
   font-size: 2em;
   line-height: 1.6;
@@ -793,7 +793,7 @@ h3 {
   padding: 0;
 }
 
-/* line 71, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 71, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h4 {
   font-size: 1em;
   line-height: 1;
@@ -801,7 +801,7 @@ h4 {
   padding: 0;
 }
 
-/* line 78, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 78, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h5 {
   font-size: 1em;
   line-height: 1;
@@ -809,7 +809,7 @@ h5 {
   padding: 0;
 }
 
-/* line 85, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 85, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 h6 {
   font-size: 1em;
   line-height: 1;
@@ -819,7 +819,7 @@ h6 {
 
 /*Other relatively common elements to style. Uncomment and change to your liking*/
 /*These are used to display text like pre-formatted text and code samples*/
-/* line 96, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 96, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 pre, code, kbd, samp {
   font-family: monospace, monospace;
   font-size: 1em;
@@ -833,7 +833,7 @@ pre, code, kbd, samp {
 /**
  * Set the font styles related to forms
  */
-/* line 111, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_typography.scss */
+/* line 111, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_typography.scss */
 button,
 input,
 optgroup,
@@ -848,7 +848,7 @@ textarea {
 /* ==========================================================================
    Add your custom styles here
    ========================================================================== */
-/* line 9, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_general.scss */
+/* line 9, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_general.scss */
 .eventCalendar {
   position: relative;
   height: 0;
@@ -856,7 +856,7 @@ textarea {
   padding-bottom: 100%;
 }
 
-/* line 16, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_general.scss */
+/* line 16, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_general.scss */
 .eventCalendar iframe {
   position: absolute;
   top: 0;
@@ -865,14 +865,14 @@ textarea {
   height: 75%;
 }
 
-/* line 24, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_general.scss */
+/* line 24, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_general.scss */
 .candidate-image {
   width: auto;
   height: auto;
   max-width: 25%;
 }
 
-/* line 31, /Volumes/Samsung_T3/MMP 240/Student-work/Midterm Project/Election-Project/sass/_general.scss */
+/* line 31, /Users/stein/Documents/BMCC/MMP240/Student Work/Final Project/Jabari/Election-Project/sass/_general.scss */
 body {
   background-image: url(http://feelgrafix.com/data/american-flag/american-flag-1.jpg);
 }
